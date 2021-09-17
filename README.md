@@ -1,7 +1,9 @@
-### Hi there 👋 I'm Ridho Developer
+### Hi there 👋 I'm Ridho Pardede!
 
 I am a computer science student at the University of North Sumatra  
 I am interested in programming especially web programming
+
+(https://www.linkedin.com/in/ridho-pardede)
 <!--
 **ridho-dev/ridho-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
