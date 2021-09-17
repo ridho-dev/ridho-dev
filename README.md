@@ -23,5 +23,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ridho-dev)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ridho%Pardede)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridho-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
